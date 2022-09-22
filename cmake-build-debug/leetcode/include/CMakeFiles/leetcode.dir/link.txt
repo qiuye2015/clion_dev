@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libleetcode.a CMakeFiles/leetcode.dir/btree.cc.obj CMakeFiles/leetcode.dir/listnode.cc.obj
+D:\mingw64\bin\ranlib.exe libleetcode.a
