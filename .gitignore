@@ -91,4 +91,4 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/clion+all
 
-cmake-build-debug/
+cmake-build-debug/*
